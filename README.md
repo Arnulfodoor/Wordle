@@ -2,8 +2,6 @@
 
 Un clon del popular juego **Wordle** desarrollado en Python con interfaz gráfica usando Tkinter.
 
-<img width="516" height="731" alt="image" src="https://github.com/user-attachments/assets/e71065b2-b5d8-4d30-b338-6fd3ae5ff52b" />
-
 
 ---
 
@@ -11,6 +9,8 @@ Un clon del popular juego **Wordle** desarrollado en Python con interfaz gráfic
 
 > El juego muestra un tablero de 6 filas × 5 columnas donde el jugador intenta adivinar la palabra secreta.
 
+
+<img width="516" height="731" alt="image" src="https://github.com/user-attachments/assets/e71065b2-b5d8-4d30-b338-6fd3ae5ff52b" />
 ---
 
 ## 🎮 ¿Cómo jugar?
